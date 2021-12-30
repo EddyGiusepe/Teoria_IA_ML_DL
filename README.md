@@ -26,6 +26,10 @@ A seguir citamos alguns exemplos bem conhecidos (aplicações de machine learnin
 * Detecção de fraudes? Um dos usos mais óbvios e importantes de machine learning no mundo de hoje.
 
 
+![image](https://user-images.githubusercontent.com/69597971/147718838-14797a6e-8bf8-4c5e-bec2-3d1a4c996b32.png)
+
+
+
 ### O que é Deep Learning?
 Deep Learning, ou aprendizagem profunda, é a parte do aprendizado de máquina que, por meio de algoritmos de alto nível, imita a rede neural do cérebro humano.
 
