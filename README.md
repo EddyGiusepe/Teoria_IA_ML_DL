@@ -29,39 +29,22 @@ A seguir citamos alguns exemplos bem conhecidos (aplicações de machine learnin
 ![image](https://user-images.githubusercontent.com/69597971/147718838-14797a6e-8bf8-4c5e-bec2-3d1a4c996b32.png)
 
 
+### Quais são os métodos mais populares de machine learning?
+Dois dos métodos mais adotados de machine learning são o **aprendizado supervisionado** e o **aprendizado não-supervisionado** – mas eles não são os únicos. A seguir descrevemos alguns:
+
+* **Aprendizado supervisionado:** Algoritmos de aprendizado supervisionado são treinados por meio de exemplos rotulados, como uma entrada na qual a saída desejada é conhecida. Por exemplo, um equipamento poderia ter pontos de dados rotulados como “F” (falha) ou “E” (executa). O algoritmo de aprendizado recebe um conjunto de entradas junto com as saídas corretas correspondentes, e aprende ao comparar a saída real com as saídas corretas para encontrar erros. Ele, então, modifica o modelo de acordo. Através de métodos como classificação, regressão e gradient boosting, o aprendizado supervisionado utiliza padrões para prever os valores de rótulos em dados não-rotulados adicionais. O aprendizado supervisionado é comumente empregado em aplicações nas quais dados históricos preveem eventos futuros prováveis. Por exemplo, ele pode antecipar quando transações via cartão de crédito são passíveis de fraude ou qual segurado tende a reivindicar sua apólice.
+
+
+* **Aprendizado não-supervisionado:** O aprendizado não-supervisionado é utilizado contra dados que não possuem rótulos históricos. A "resposta certa" não é informada ao sistema. O algoritmo deve descobrir o que está sendo mostrado. O objetivo é explorar os dados e encontrar alguma estrutura dentro deles. O aprendizado não-supervisionado funciona bem com dados transacionais. Por exemplo, ele pode identificar segmentos de clientes com atributos similares que podem, então, ser tratados de modo igualmente similar em campanhas de marketing; ou ele pode encontrar os principais atributos que separam segmentos distintos de clientes. Técnicas populares incluem mapas auto-organizáveis, mapeamento por proximidade, agrupamento k-means e decomposição em valores singulares. Esses algoritmos também são utilizados para segmentar tópicos de texto, recomendar itens e identificar pontos discrepantes nos dados.
+
+
+
+
 
 ### O que é Deep Learning?
 Deep Learning, ou aprendizagem profunda, é a parte do aprendizado de máquina que, por meio de algoritmos de alto nível, imita a rede neural do cérebro humano.
 
 Para chegar ao nível de aprendizagem profunda mais avançado, o princípio da **redes neurais artificiais** foi desenvolvido para suportar camadas discretas, conexões e direções de propagação de Dados. Assim, os Dados são submetidos a várias camadas de processamento _não-lineares_ que simulam a forma de pensar dos **neurônios**. As redes neurais artificiais, são capazes de reconhecer imagens e fala (Speech Processing), processar a linguagem natural (NLP) e aprender a realizar tarefas extremamente avançadas sem interferência humana. A principal aplicação dos algoritmos de Deep Learning são as **tarefas de classificação**, em especial, reconhecimento de imagens.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
