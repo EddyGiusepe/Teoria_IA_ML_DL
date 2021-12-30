@@ -17,3 +17,9 @@ Machine learning, ou aprendizado de máquina, é o uso de algoritmos para organi
 Algoritmos são regras que mostram o passo-a-passo necessário para a realização de uma tarefa ou resolver um problema. Por meio de uma sequência lógica, definida e finita de instruções, eles determinam o caminho a seguir para executar uma tarefa.
 
 Os algoritmos de machine learning aprendem a partir dos dados a eles submetidos e, assim, as máquinas são treinadas para aprender a executar diferentes tarefas de forma autônoma. Logo, ao serem expostas a novos dados, elas se adaptam a partir dos cálculos anteriores e os padrões se moldam para oferecer respostas confiáveis. O que isso quer dizer, na prática? Em vez de programar regras em um computador e esperar o resultado, com machine learning, a máquina aprenderá essas regras por conta própria. No início, as aplicações eram limitadas pela falta de Dados e de tecnologias capazes de processá-los de forma veloz e eficiente. Hoje, a grande quantidade de Dados (era do Big Data) disponíveis e o avanço da computação permitiram o desenvolvimento de algoritmos muito mais complexos e rápidos, que trouxeram um novo impulso para Machine Learning. É o caso de Deep Learning.
+
+
+### O que é Deep Learning?
+Deep Learning, ou aprendizagem profunda, é a parte do aprendizado de máquina que, por meio de algoritmos de alto nível, imita a rede neural do cérebro humano.
+
+Para chegar ao nível de aprendizagem profunda mais avançado, o princípio da **redes neurais artificiais** foi desenvolvido para suportar camadas discretas, conexões e direções de propagação de Dados. Assim, os Dados são submetidos a várias camadas de processamento _não-lineares_ que simulam a forma de pensar dos **neurônios**.
