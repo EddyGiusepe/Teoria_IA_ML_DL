@@ -51,7 +51,9 @@ Deep Learning, ou aprendizagem profunda, é a parte do aprendizado de máquina q
 Para chegar ao nível de aprendizagem profunda mais avançado, o princípio da **redes neurais artificiais** foi desenvolvido para suportar camadas discretas, conexões e direções de propagação de Dados. Assim, os Dados são submetidos a várias camadas de processamento _não-lineares_ que simulam a forma de pensar dos **neurônios**. As redes neurais artificiais, são capazes de reconhecer imagens e fala (Speech Processing), processar a linguagem natural (NLP) e aprender a realizar tarefas extremamente avançadas sem interferência humana. A principal aplicação dos algoritmos de Deep Learning são as **tarefas de classificação**, em especial, reconhecimento de imagens.
 
 
+# As $10$ principais arquiteturas de Redes Neurais
 
+Link: [Livro de Deep Learning](https://www.deeplearningbook.com.br/as-10-principais-arquiteturas-de-redes-neurais/).
 
 
 
