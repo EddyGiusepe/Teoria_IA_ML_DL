@@ -18,8 +18,54 @@ Algoritmos são regras que mostram o passo-a-passo necessário para a realizaç�
 
 Os algoritmos de machine learning aprendem a partir dos dados a eles submetidos e, assim, as máquinas são treinadas para aprender a executar diferentes tarefas de forma autônoma. Logo, ao serem expostas a novos dados, elas se adaptam a partir dos cálculos anteriores e os padrões se moldam para oferecer respostas confiáveis. O que isso quer dizer, na prática? Em vez de programar regras em um computador e esperar o resultado, com machine learning, a máquina aprenderá essas regras por conta própria. No início, as aplicações eram limitadas pela falta de Dados e de tecnologias capazes de processá-los de forma veloz e eficiente. Hoje, a grande quantidade de Dados (era do Big Data) disponíveis e o avanço da computação permitiram o desenvolvimento de algoritmos muito mais complexos e rápidos, que trouxeram um novo impulso para Machine Learning. É o caso de Deep Learning.
 
+A seguir citamos alguns exemplos bem conhecidos (aplicações de machine learning) dos quais você já deve ter ouvido falar:
+
+* Os carros autônomos super esperados do Google? A essência do machine learning;
+* Ofertas recomendadas como as da Amazon e da Netflix? Aplicações de machine learning para o dia-a-dia;
+* Saber o que seus clientes estão falando de você no Twitter? Machine learning combinado com criação de regras linguísticas;
+* Detecção de fraudes? Um dos usos mais óbvios e importantes de machine learning no mundo de hoje.
+
 
 ### O que é Deep Learning?
 Deep Learning, ou aprendizagem profunda, é a parte do aprendizado de máquina que, por meio de algoritmos de alto nível, imita a rede neural do cérebro humano.
 
-Para chegar ao nível de aprendizagem profunda mais avançado, o princípio da **redes neurais artificiais** foi desenvolvido para suportar camadas discretas, conexões e direções de propagação de Dados. Assim, os Dados são submetidos a várias camadas de processamento _não-lineares_ que simulam a forma de pensar dos **neurônios**.
+Para chegar ao nível de aprendizagem profunda mais avançado, o princípio da **redes neurais artificiais** foi desenvolvido para suportar camadas discretas, conexões e direções de propagação de Dados. Assim, os Dados são submetidos a várias camadas de processamento _não-lineares_ que simulam a forma de pensar dos **neurônios**. As redes neurais artificiais, são capazes de reconhecer imagens e fala (Speech Processing), processar a linguagem natural (NLP) e aprender a realizar tarefas extremamente avançadas sem interferência humana. A principal aplicação dos algoritmos de Deep Learning são as **tarefas de classificação**, em especial, reconhecimento de imagens.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
